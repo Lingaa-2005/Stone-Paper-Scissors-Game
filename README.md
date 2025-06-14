@@ -32,8 +32,8 @@ Try it live 👉 [Play the Game](https://lingaa-2005.github.io/Stone-Paper-Sciss
 
 ## 📸 Screenshots
 
-![Game Screenshot](![Screenshot 2025-06-14 173052](https://github.com/user-attachments/assets/dbb96cec-3ce8-4d9d-9d3a-bb7c504bdade)
-)
+Game Screenshot![Screenshot 2025-06-14 173052](https://github.com/user-attachments/assets/dbb96cec-3ce8-4d9d-9d3a-bb7c504bdade)
+
  
 
 
